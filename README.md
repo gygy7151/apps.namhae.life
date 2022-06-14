@@ -4,10 +4,10 @@
 
 ## 사용기술스택
 ![남해토스프로젝트기술스택](https://user-images.githubusercontent.com/55748886/173522181-5446aed3-440b-4f5b-bf21-6ced0ba89885.JPG)
-- 프론트 : React, Redux, Typescript, MaterailUI, next.js
+- 프론트 : React, Redux, Typescript, MaterailUI, Next.js
 - 번들러 : Webpack 
-- 백엔드 : nest.js,graphQL
-- CI/CD : vercel, github
+- 백엔드 : Nest.js,graphQL
+- CI/CD : Vercel, Github
 
 ## 업무담당
 - 퍼블리싱,프론트 : 이지영 
