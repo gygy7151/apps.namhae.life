@@ -60,7 +60,7 @@ Client
    - 메뉴가 장바구니 담길시, 메뉴를 클릭한 순서대로 ListItem order순서 매겨지는 함수작성(함수명 : updateCountOrder) 
    - 그리드 사용한 OrderMenu 컴포넌트 레이아웃작성 
 
---- 백엔드
+--- 백엔드<br>
 - api, client 각자 가지고 있던 prettier 설정을 프로젝트 루트로 옮김
 - client 실행에 필요한 API 서버 주소 환경번수 추가
 - storeUpdate, menuUpdate 뮤테이션 서비스 로직 버그 수정
@@ -83,7 +83,9 @@ Client
 --- 프론트
 - 검색가능하 이미지 메뉴 사진 업데이트
 - 나머지 메뉴들 '이미지준비중' 이미지로 메뉴사진 대체<br>
---- 백엔드
+
+
+--- 백엔드<br>
 - eslint/prettier 설정 변경
 	- singleQuote 를 주로사용하고 세미콜론 사용안함
 - 데이터베이스와 API 서버를 연결하기 위한 세팅 추가
