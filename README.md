@@ -27,9 +27,13 @@
 ```
 
 ## 이슈로그
-- [10.14.2021] 해결
-- - 이게되나?
+- [10.14.2021] fix Schema 해결
+---
+- Store, Menu 타입 types.tsx 로 분리함. 향후 DB 스키마로 활용 예정
+- Store 타입에 holidays 필드 추가
+- Menu 타입에 isAvailable 필드 삭제
+- Menu 타입에 isLunch, isDinner 필드 추가
+- 점심과 저녁을 구분하는 상수 const BREAK_TIME = 15 추가
+- 각 메뉴의 주문 가능 여부를 가늠하는 isMenuAvailable() 함수 추가
 
-- [10.14.2021] 해결
-- - 이게되나?
 
