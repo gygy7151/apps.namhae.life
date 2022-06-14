@@ -27,7 +27,7 @@
 ```
 
 ## 이슈로그
-# [10.14.2021] fix Schema 해결
+### [10.14.2021] fix Schema 해결
 ---
 - Store, Menu 타입 types.tsx 로 분리함. 향후 DB 스키마로 활용 예정
 - Store 타입에 holidays 필드 추가
