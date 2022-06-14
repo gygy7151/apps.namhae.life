@@ -62,6 +62,7 @@ Client
  - OrderMenu.tsx 파일생성
    - 메뉴가 장바구니 담길시, 메뉴를 클릭한 순서대로 ListItem order순서 매겨지는 함수작성(함수명 : updateCountOrder) 
    - 그리드 사용한 OrderMenu 컴포넌트 레이아웃작성 
+
 --- 백엔드
 - api, client 각자 가지고 있던 prettier 설정을 프로젝트 루트로 옮김
 - client 실행에 필요한 API 서버 주소 환경번수 추가
